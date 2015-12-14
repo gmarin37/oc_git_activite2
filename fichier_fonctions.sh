@@ -1,5 +1,4 @@
 #fichier des fonctions de l'application
-
-fonction connect () {
-	#connection BDD
+fonction connect($bdd){
+	#connect to bdd
 }
